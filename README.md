@@ -1,2 +1,2 @@
 # netflixclone
-Clone da página de login da Netflix.
+Exercício que consiste no clone da página de login na Netflix, utilizando HTML e CSS.
